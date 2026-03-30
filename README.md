@@ -75,7 +75,7 @@ silent_install(['pandas', 'scikit-learn'])
 
 ## Usage
 
-Run the program using: python app.py
+Run the program using: MovieRecommendationSystem.py
 
 ### Example:
 
