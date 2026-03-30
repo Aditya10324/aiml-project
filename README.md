@@ -43,9 +43,7 @@ movies similar to a given input, simplifying the selection process.
 ### Step 1: Clone the Repository
 
 git clone
-https://github.com/your-username/movie-recommendation-system.git cd
-movie-recommendation-system
-
+(https://github.com/Aditya10324/aiml-project)
 ------------------------------------------------------------------------
 
 ## Important Note on Dependencies
