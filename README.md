@@ -41,7 +41,7 @@ movies similar to a given input, simplifying the selection process.
 ## Installation
 
 ### Step 1: Clone the Repository
-```sh
+```bash
 git clone https://github.com/Aditya10324/aiml-project
 ```
 ------------------------------------------------------------------------
